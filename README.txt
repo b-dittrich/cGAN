@@ -1,3 +1,5 @@
+Codes for my report "A (conditional) Generative Adversarial Network". The PDF-file can be found here: https://www.mathematik.uni-wuerzburg.de/en/scientificcomputing/teaching/documents-lecture-notes-downloads-etc/
+
 Instruction for the code files:
 
 The path of the trained models must not be changed unless it is also changed in the code.
